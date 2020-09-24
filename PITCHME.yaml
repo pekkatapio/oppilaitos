@@ -8,7 +8,7 @@
 theme            : template
 
 theme-background : [ "#FFFFFF" ]
-theme-headline   : [ "Open Sans", "#85c1e1", "none", "#FFFFFF", "100", "120", "15" ]
+theme-headline   : [ "Open Sans", "#85c1e1", "none", "#000000", "100", "120", "15" ]
 theme-byline     : [ "Open Sans", "#000000", "none", "#FBD95E", "100", "110", "15" ]
 theme-text       : [ "Open Sans", "#000000", "none", "#A0C865", "100", "100", "15" ]
 theme-links      : [ "#F1C40F", "#5254F7" ]
