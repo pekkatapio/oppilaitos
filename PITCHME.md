@@ -23,6 +23,8 @@
 
 ---?image=assets/img/tyopiste2.jpg&size=contain&transition=none
 
+---
+
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
