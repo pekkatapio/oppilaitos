@@ -13,6 +13,8 @@
  * kasa erilaisia repoja
 @snapend
 
+---
+
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
