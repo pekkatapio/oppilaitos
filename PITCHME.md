@@ -15,7 +15,13 @@
  * kasa erilaisia repoja
 @snapend
 
----
+---?image=assets/img/labraluokka1.png&size=contain&transition=none
+
+---?image=assets/img/labraluokka2.png&size=contain&transition=none
+
+---?image=assets/img/tyopiste1.png&size=contain&transition=none
+
+---?image=assets/img/tyopiste2.png&size=contain&transition=none
 
 ### Add Some Slide Candy
 
