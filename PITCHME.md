@@ -2,6 +2,17 @@
 
 ---
 
+## GitHub
+
+@snap[west span-40]
+![IMAGE](assets/img/octocat.png)
+@snapend
+
+@snap[east span-60]
+ * GitHub Classroom
+ * kasa erilaisia repoja
+@snapend
+
 ### Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
