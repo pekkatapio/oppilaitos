@@ -4,15 +4,18 @@
 
 @title[GitHub osana opetusta]
 
-@snap[west span-55]
+@snap[west span-45]
 ![IMAGE](assets/img/octocat.png)
 @snapend
 
-@snap[east span-45]
+@snap[east span-55]
 ## GitHub
 
+ * GitHub Student Developer Pack
  * GitHub Classroom
- * kasa erilaisia repoja
+    * tehtävien jako
+    * arviointi
+ * kurssin aikana tehtyjen projektien repo
 @snapend
 
 ---?image=assets/img/labraluokka1.jpg&size=contain&transition=none
