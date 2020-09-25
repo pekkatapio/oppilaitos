@@ -16,6 +16,7 @@ theme-code       : [ "Source Code Pro", "100", "120" ]
 theme-controls   : [ "#C0C0C0" ]
 theme-margins    : [ "0", "15px" ]
 layout           : center
+transition       : fade
 
 #
 # Highlight Setting
