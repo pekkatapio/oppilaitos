@@ -30,9 +30,19 @@
 
 ## Labraluokka
 
----?image=assets/img/tyopiste1.jpg&size=contain&transition=none
+---
 
----?image=assets/img/tyopiste2.jpg&size=contain&transition=none
+@title[Labran työpiste]
+
+## Labran työpiste
+
+@snap[west span-45]
+![IMAGE](assets/img/tyopiste1.jpg)
+@snapend
+
+@snap[east span-55]
+![IMAGE](assets/img/tyopiste2.jpg)
+@snapend
 
 ---
 
