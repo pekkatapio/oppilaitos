@@ -2,13 +2,15 @@
 
 ---
 
+@snap[north span-10]
 ## GitHub
+@snapend
 
-@snap[west span-40]
+@snap[west span-30]
 ![IMAGE](assets/img/octocat.png)
 @snapend
 
-@snap[east span-60]
+@snap[east span-70]
  * GitHub Classroom
  * kasa erilaisia repoja
 @snapend
