@@ -18,9 +18,17 @@
  * kurssin aikana tehtyjen projektien repo
 @snapend
 
----?image=assets/img/labraluokka1.jpg&size=contain&transition=none
+---?image=assets/img/labraluokka1.jpg&size=cover&transition=none
 
----?image=assets/img/labraluokka2.jpg&size=contain&transition=none
+@title[Labraluokka 1]
+
+## Labraluokka
+
+---?image=assets/img/labraluokka2.jpg&size=cover&transition=none
+
+@title[Labraluokka 2]
+
+## Labraluokka
 
 ---?image=assets/img/tyopiste1.jpg&size=contain&transition=none
 
