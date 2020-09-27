@@ -17,7 +17,7 @@
 ![IMAGE](assets/img/octocat.png)
 @snapend
 
-@snap[east span-55]
+@snap[east span-55 text-left]
 ### GitHub
 
  * GitHub Classroom
