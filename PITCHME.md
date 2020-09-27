@@ -27,7 +27,7 @@
  * kurssin aikana tehtyjen projektien repo
 @snapend
 
----?image=assets/img/labratila-scaled.jpg&size=cover
+---?image=assets/img/labratila2-scaled.jpg&size=cover
 
 @title[Labratila]
 
