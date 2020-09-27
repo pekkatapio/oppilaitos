@@ -2,6 +2,15 @@
 
 ---
 
+@title[Opetus]
+
+## Tieto- ja viestintätekniikan perustutkinto
+
+ * IT-tukihenkilö (lähiopetus)
+ * Ohjelmistokehittäjä (verkko)
+
+---
+
 @title[GitHub osana opetusta]
 
 @snap[west span-45]
