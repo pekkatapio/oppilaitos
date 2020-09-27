@@ -18,7 +18,7 @@
 @snapend
 
 @snap[east span-55]
-## GitHub
+### GitHub
 
  * GitHub Classroom
     * tehtävien jako
