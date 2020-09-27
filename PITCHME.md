@@ -18,31 +18,9 @@
  * kurssin aikana tehtyjen projektien repo
 @snapend
 
----?image=assets/img/labraluokka1.jpg&size=cover&transition=none
+---?image=assets/img/labratila-sacled.jpg&size=cover
 
-@title[Labraluokka 1]
-
-## Labraluokka
-
----?image=assets/img/labraluokka2.jpg&size=cover&transition=none
-
-@title[Labraluokka 2]
-
-## Labraluokka
-
----
-
-@title[Labran työpiste]
-
-## Labran työpiste
-
-@snap[west span-45]
-![IMAGE](assets/img/tyopiste1.jpg)
-@snapend
-
-@snap[east span-55]
-![IMAGE](assets/img/tyopiste2.jpg)
-@snapend
+@title[Labratila]
 
 ---
 
