@@ -4,10 +4,10 @@
 
 @title[Opetus]
 
-## Tieto- ja viestintätekniikan perustutkinto
+### Tieto- ja viestintätekniikan perustutkinto
 
- * IT-tukihenkilö (lähiopetus)
- * Ohjelmistokehittäjä (verkko)
+@box[bg-gold text-white rounded box-padding](IT-tukihenkilö (lähiopetus))
+@box[bg-gold text-white rounded box-padding](Ohjelmistokehittäjä (verkko))
 
 ---
 
