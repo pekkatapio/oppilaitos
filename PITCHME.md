@@ -6,8 +6,8 @@
 
 ### Tieto- ja viestintätekniikan perustutkinto
 
-@box[bg-gold text-white rounded box-padding](IT-tukihenkilö (lähiopetus))
-@box[bg-gold text-white rounded box-padding](Ohjelmistokehittäjä (verkko))
+@box[bg-blue text-white rounded box-padding](IT-tukihenkilö (lähiopetus))
+@box[bg-blue text-white rounded box-padding](Ohjelmistokehittäjä (verkko))
 
 ---
 
@@ -20,7 +20,6 @@
 @snap[east span-55]
 ## GitHub
 
- * GitHub Student Developer Pack
  * GitHub Classroom
     * tehtävien jako
     * arviointi
